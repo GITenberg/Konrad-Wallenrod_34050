@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34050#Konrad-Wallenrod
 gutenberg_issued: '2010-10-09'
 gutenberg_type: Text
 identifiers:
